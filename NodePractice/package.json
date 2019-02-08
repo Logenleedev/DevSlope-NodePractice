@@ -1,0 +1,15 @@
+{
+  "name": "nodepractice",
+  "version": "1.0.0",
+  "description": "Devslope Node exericise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "rieder",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.4",
+    "readline-sync": "^1.4.9"
+  }
+}
